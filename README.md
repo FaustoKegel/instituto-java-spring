@@ -4,10 +4,10 @@ Trabajo práctico grupal de **Programación 2** – IFES, Tecnicatura en Anális
 
 ## Integrantes
 
-- Bryan Hernandez
+- Brian myers ernandez
 - Julieta Fernandez
 - Santino Resch
-- Fausto Keygel
+- Fausto Kegel
 
 ## Descripción
 
